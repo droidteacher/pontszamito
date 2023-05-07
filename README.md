@@ -5,6 +5,7 @@ Felvételi összpontszámot számol érettségi vizsga eredmények alapján.
 ## Installálás / Függőségek letöltése
 
     composer dump-autoload
+    composer update
 
 ## Összes teszt futtatása
 
